@@ -1,0 +1,55 @@
+SCHOOL,FIELD,AN,SEMESTRE,MODULE,ELEMENT
+ENSAH,ID,1,,,
+,,1,S1,,
+,,1,S1,Analyse numérique matricielle et Statistique Inférentielle,
+,,1,S1,Analyse numérique matricielle et Statistique Inférentielle,Analyse numérique matricielle
+,,1,S1,Analyse numérique matricielle et Statistique Inférentielle,Statistique Inférentielle
+,,1,S1,Théorie des langages et compilation,
+,,1,S1,Systèmes d’Information et Bases de Données,
+,,1,S1,Systèmes d’Information et Bases de Données,Systèmes d’Information
+,,1,S1,Systèmes d’Information et Bases de Données,Bases de Données
+,,1,S1,Architecture des ordinateurs et systèmes d’exploitation,
+,,1,S1,Architecture des ordinateurs et systèmes d’exploitation,Architecture des ordinateurs
+,,1,S1,Architecture des ordinateurs et systèmes d’exploitation,systèmes d’exploitation
+,,1,S1,Communication Professionnelle et Soft Skills -I,
+,,1,S1,Communication Professionnelle et Soft Skills -I,Communication Professionnelle FR
+,,1,S1,Communication Professionnelle et Soft Skills -I,Communication Professionnelle EN
+,,1,S1,Communication Professionnelle et Soft Skills -I,Soft Skills -I
+,,1,S1,Recherche d’Information,
+,,1,S2,,
+,,1,S2,Programmation Orientée Objet Java,
+,,1,S2,Data Mining,
+,,1,S2,Statistique en grande dimension,
+,,1,S2,Entreprenariat -I-,
+,,1,S2,Modélisation Stochastique,
+,,1,S2,Administration et Optimisation des Bases de Données,
+,,2,,,
+,,2,S3,,
+,,2,S3,Intelligence Artificielle I – Machine Learning,
+,,2,S3,Programmation Python,
+,,2,S3,Architecture Logicielle et UML,
+,,2,S3,Fondements du Big Data,
+,,2,S3,Communication Professionnelle et Soft Skills -II-,
+,,2,S3,Communication Professionnelle et Soft Skills -II-,Communication Professionnelle FR
+,,2,S3,Communication Professionnelle et Soft Skills -II-,Communication Professionnelle EN
+,,2,S3,Communication Professionnelle et Soft Skills -II-,Soft Skills -II
+,,2,S3,Bases de données avancées,
+,,2,S4,,
+,,2,S4,Big Data Avancées,
+,,2,S4,Intelligence Artificielle II – Deep Learning,
+,,2,S4,Data Warehouse et Data Lake,
+,,2,S4,Programmation et architecture Parallèle,
+,,2,S4,Traitement Automatique de Langue (TAL) naturelle et ses applications,
+,,2,S4,Entreprenariat -II-,
+,,3,,,
+,,3,S5,,
+,,3,S5,Big Data Visualisation,
+,,3,S5,Business Intelligence et Veille Stratégique,
+,,3,S5,Business Intelligence et Veille Stratégique,Business Intelligence
+,,3,S5,Business Intelligence et Veille Stratégique,Veille Stratégique
+,,3,S5,Entreprenariat -III-,
+,,3,S5,Social Network Mining,
+,,3,S5,Web Marketing et CRM,
+,,3,S5,Transformation digitale,
+,,3,S6,,
+,,3,S6,Projet de Fin d Année (PFE),
