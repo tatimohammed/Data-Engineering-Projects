@@ -8,6 +8,7 @@ It is a school project that aims to create a SQL script that inserts data given 
 The YoA represents the year of accreditation.
 So to answer this problem I've created a python script to do all the work for us.
 In the other part of the project, based on the SQL script that we got, we need to import the data into a NoSQL database, I've choosen MongoDB to do so.
+
 You will find the part of SQL to NoSQL in the PDF file.
 
 ## Tools used
